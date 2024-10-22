@@ -1,0 +1,15 @@
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\obj\Debug\net6.0\E42Owusu.csproj.AssemblyReference.cache
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\obj\Debug\net6.0\E42Owusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\obj\Debug\net6.0\E42Owusu.AssemblyInfoInputs.cache
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\obj\Debug\net6.0\E42Owusu.AssemblyInfo.cs
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\obj\Debug\net6.0\E42Owusu.csproj.CoreCompileInputs.cache
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\bin\Debug\net6.0\E42Owusu.exe
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\bin\Debug\net6.0\E42Owusu.deps.json
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\bin\Debug\net6.0\E42Owusu.runtimeconfig.json
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\bin\Debug\net6.0\E42Owusu.dll
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\bin\Debug\net6.0\E42Owusu.pdb
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\obj\Debug\net6.0\E42Owusu.dll
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\obj\Debug\net6.0\refint\E42Owusu.dll
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\obj\Debug\net6.0\E42Owusu.pdb
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\obj\Debug\net6.0\E42Owusu.genruntimeconfig.cache
+C:\Users\DicksonOwusu\Desktop\OOP\OOP Topic 4 - Exercise 4.1 [Question]\E42Owusu\obj\Debug\net6.0\ref\E42Owusu.dll
